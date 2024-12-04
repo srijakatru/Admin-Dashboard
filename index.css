@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-image: url('C:\Users\Mokshasree\Desktop\Srija\Project\img.jpg'); /* Replace with your background image URL */
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  padding: 20px;
+  gap: 20px;
+}
+
+.box {
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+  width: 300px;
+  height: 300px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: transform 0.2s;
+  position: relative;
+  overflow: hidden;
+}
+
+.box img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.box p {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: #131111;
+  font-size: 18px;
+  font-weight: bold;
+  z-index: 1;
+}
+
+.box:hover {
+  transform: scale(1.05);
+}
+#header {
+  position: absolute;
+  top: 20px;  /* Distance from the top */
+  left: 20px;  /* Distance from the left */
+}
+
+#header h1 {
+  font-size: 80px;  /* Increased size */
+  color: #0751a5;
+  font-weight: bold;
+  padding-left: 550px;
+}
+
+h2 {
+  margin: 0;
+}
