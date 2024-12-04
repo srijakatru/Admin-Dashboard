@@ -22,20 +22,19 @@ Toggle user status (Active/Inactive) to enable or disable their access.
 
 Follow the instructions below to set up the **Admin Dashboard (RBAC)** UI on your local machine.
 
-### **1. Clone the Repository:**
+##### **1. Clone the Repository:**
 
 Clone this repository to your local machine using Git:
 
 git clone https://github.com/srijakatru/Admin-Dashboard
 
-### **2.  Install Dependencies: Navigate to the project directory and install the required dependencies.**
-
+##### **2.  Install Dependencies: Navigate to the project directory and install the required dependencies.**
+###### To verify run
 npm install
-## This will install all necessary libraries and dependencies, such as React.js and other required packages.
+#### This will install all necessary libraries and dependencies, such as React.js and other required packages.
 
-3. Run the Application
+##### 3. Run the Application
 Start the React development server:
-
 npm start
 This will launch the app in your default browser, usually accessible at http://localhost:3000.
 
