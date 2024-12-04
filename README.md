@@ -12,24 +12,8 @@ The application structure is organized into the following key components:
 3. **Dynamic Permissions:**
     - Design a method to assign or modify permissions for roles.
     - Display permissions clearly for ease of understanding and modification.
-    - my-project/
-├── public/
-│   ├── index.html
-│   ├── main.jpeg
-│   ├── role.jpg
-│   ├── per.jpg
-│   ├── user.jpeg
-│   ├── roles-background.jpg
-│   ├── permissions-background.jpg
-├── src/
-│   ├── index.js
-│   ├── App.js
-│   ├── App.css
-│   ├── pages/
-│   │   ├── Users.js
-│   │   ├── Roles.js
-│   │   ├── Permissions.js
-│   ├── index.css
+
+![image](https://github.com/user-attachments/assets/3b64de5f-1bd5-4d14-bbdd-6afaa37668c4)
 
  # Getting Started with Create React App
 
