@@ -29,7 +29,6 @@ Clone this repository to your local machine using Git:
 git clone https://github.com/srijakatru/Admin-Dashboard
 
 ##### **2.  Install Dependencies: Navigate to the project directory and install the required dependencies.**
-###### To verify run
 npm install
 #### This will install all necessary libraries and dependencies, such as React.js and other required packages.
 
