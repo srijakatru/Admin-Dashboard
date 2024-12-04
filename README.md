@@ -1,4 +1,4 @@
- #Admin Dashboard (RBAC) UI using React JS
+ # Admin Dashboard (RBAC) UI using React JS
  This project is an Admin Dashboard built with React.js that implements Role-Based Access Control (RBAC). The dashboard allows administrators to manage users, roles, and permissions within the application. Each feature—User Management, Role Management, and Permission Management—is designed to enable easy administration of system entities, offering both a seamless user experience and robust control over access and rights.
 
 The application structure is organized into the following key components:
